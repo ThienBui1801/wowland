@@ -1,0 +1,6 @@
+Xanh biển đậm: #2A367E
+Cam : #F79750
+Xanh lá: #A3DD8F
+Xanh lá đậm: 228300
+Đỏ hồng: #FFAEA9
+Đỏ đậm: #F80F00
